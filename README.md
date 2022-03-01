@@ -3,7 +3,7 @@
 ## Introduction
 Simple Card Drag and Drop  Application with Flask Rest Backend and React UI with Postgress SQl as database
 
-## Prerequisties
+## Prerequisites
 1. python 3 - https://w3path.com/install-python-3-on-ubuntu-mac-or-windows/
 2. pip or pip3 - https://www.activestate.com/resources/quick-reads/how-to-install-and-use-pip3/
 3. node js - https://kinsta.com/blog/how-to-install-node-js/
